@@ -1,0 +1,4 @@
+List<Integer> l1 = new LinkedList<>();
+List l2 = new LinkedList();
+LinkedList<Integer> l3 = new LinkedList<Integer>();
+List<Number> l4 = new LinkedList<Integer>();

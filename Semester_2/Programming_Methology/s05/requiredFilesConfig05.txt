@@ -1,0 +1,9 @@
+at/ac/uibk/pm/gXX/zidUsername/s05/e01/e01.txt
+at/ac/uibk/pm/gXX/zidUsername/s05/e01/Main.java
+at/ac/uibk/pm/gXX/zidUsername/s05/e01/MyCustomClass1.java
+at/ac/uibk/pm/gXX/zidUsername/s05/e01/MyCustomClass2.java
+at/ac/uibk/pm/gXX/zidUsername/s05/e02/e02.txt
+at/ac/uibk/pm/gXX/zidUsername/s05/e03/Person.java
+at/ac/uibk/pm/gXX/zidUsername/s05/e03/Address.java
+at/ac/uibk/pm/gXX/zidUsername/s05/e03/Main.java
+at/ac/uibk/pm/gXX/zidUsername/s05/e05/BarTest.java

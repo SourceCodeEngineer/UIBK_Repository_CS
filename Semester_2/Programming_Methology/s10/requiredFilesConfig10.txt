@@ -1,0 +1,9 @@
+at/ac/uibk/pm/gXX/zidUsername/s10/e01/Generics.txt
+at/ac/uibk/pm/gXX/zidUsername/s10/e02/ListSet.java
+at/ac/uibk/pm/gXX/zidUsername/s10/e02/ListSetTest.java
+at/ac/uibk/pm/gXX/zidUsername/s10/e03/Item.java
+at/ac/uibk/pm/gXX/zidUsername/s10/e03/ListItem.java
+at/ac/uibk/pm/gXX/zidUsername/s10/e03/SimpleItem.java
+at/ac/uibk/pm/gXX/zidUsername/s10/e03/Exercise3Application.java
+at/ac/uibk/pm/gXX/zidUsername/s10/e04/LeaveOutCollector.java
+at/ac/uibk/pm/gXX/zidUsername/s10/e04/Exercise4Application.java

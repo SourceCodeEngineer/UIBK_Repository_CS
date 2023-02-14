@@ -1,0 +1,14 @@
+at/ac/uibk/pm/gXX/zidUsername/s04/e01/JavaErrorhandling.java
+at/ac/uibk/pm/gXX/zidUsername/s04/e01/MyLinkedList.java
+at/ac/uibk/pm/gXX/zidUsername/s04/e01/Node.java
+at/ac/uibk/pm/gXX/zidUsername/s04/e02/Course.java
+at/ac/uibk/pm/gXX/zidUsername/s04/e02/CourseApplication.java
+at/ac/uibk/pm/gXX/zidUsername/s04/e02/CourseFullException.java
+at/ac/uibk/pm/gXX/zidUsername/s04/e02/StudentAlreadyEnrolledException.java
+at/ac/uibk/pm/gXX/zidUsername/s04/e03/PasswordChecker.java
+at/ac/uibk/pm/gXX/zidUsername/s04/e03/PasswordStrength.java
+at/ac/uibk/pm/gXX/zidUsername/s04/e03/PasswordCheckerTest.java
+at/ac/uibk/pm/gXX/zidUsername/s04/e04/Item.java
+at/ac/uibk/pm/gXX/zidUsername/s04/e04/ItemTest.java
+at/ac/uibk/pm/gXX/zidUsername/s04/e04/ItemManager.java
+at/ac/uibk/pm/gXX/zidUsername/s04/e04/ItemManagerTest.java

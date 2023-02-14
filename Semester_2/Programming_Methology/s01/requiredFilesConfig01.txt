@@ -1,0 +1,6 @@
+at/ac/uibk/pm/gXX/zidUsername/s01/e01/exercise1.txt
+at/ac/uibk/pm/gXX/zidUsername/s01/e02/PrintArray.java
+at/ac/uibk/pm/gXX/zidUsername/s01/e03/TimesTwo.java
+at/ac/uibk/pm/gXX/zidUsername/s01/e03/exercise3.txt
+at/ac/uibk/pm/gXX/zidUsername/s01/e04/MaxDifference.java
+at/ac/uibk/pm/gXX/zidUsername/s01/e05/PascalsTriangle.java

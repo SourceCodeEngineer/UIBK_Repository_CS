@@ -1,0 +1,5 @@
+  name   |                 setting                  
+---------+------------------------------------------
+ VERSION | PostgreSQL 11.5 (Debian 11.5-1.pgdg90+1)
+(1 row)
+

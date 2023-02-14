@@ -1,0 +1,5 @@
+at/ac/uibk/pm/gXX/zidUsername/s02/e01/Computer.java
+at/ac/uibk/pm/gXX/zidUsername/s02/e01/Main.java
+at/ac/uibk/pm/gXX/zidUsername/s02/e02/BankAccount.java
+at/ac/uibk/pm/gXX/zidUsername/s02/e02/BankingSystem.java
+at/ac/uibk/pm/gXX/zidUsername/s02/e02/Main.java

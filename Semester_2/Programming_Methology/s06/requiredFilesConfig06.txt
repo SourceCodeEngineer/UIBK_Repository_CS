@@ -1,0 +1,9 @@
+at/ac/uibk/pm/gXX/zidUsername/s06/e01/FibonacciIterator.java
+at/ac/uibk/pm/gXX/zidUsername/s06/e01/FibonacciIteratorTest.java
+at/ac/uibk/pm/gXX/zidUsername/s06/e02/ElectionSystem.java
+at/ac/uibk/pm/gXX/zidUsername/s06/e02/ElectoralRegion.java
+at/ac/uibk/pm/gXX/zidUsername/s06/e02/PoliticalParty.java
+at/ac/uibk/pm/gXX/zidUsername/s06/e02/VoteGenerator.java
+at/ac/uibk/pm/gXX/zidUsername/s06/e02/RandomizedVoteGenerator.java
+at/ac/uibk/pm/gXX/zidUsername/s06/e03/FixedVoteGenerator.java
+at/ac/uibk/pm/gXX/zidUsername/s06/e03/ElectionSystemTest.java

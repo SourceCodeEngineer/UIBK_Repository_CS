@@ -1,0 +1,12 @@
+at/ac/uibk/pm/gXX/zidUsername/s08/e01/Explanation.txt
+at/ac/uibk/pm/gXX/zidUsername/s08/e01/Person.java
+at/ac/uibk/pm/gXX/zidUsername/s08/e01/PersonManager.java
+at/ac/uibk/pm/gXX/zidUsername/s08/e02/Application.java
+at/ac/uibk/pm/gXX/zidUsername/s08/e02/CSVToArray.java
+at/ac/uibk/pm/gXX/zidUsername/s08/e02/FoodType.java
+at/ac/uibk/pm/gXX/zidUsername/s08/e02/Inventory.java
+at/ac/uibk/pm/gXX/zidUsername/s08/e02/InventoryTest.java
+at/ac/uibk/pm/gXX/zidUsername/s08/e02/Item.java
+at/ac/uibk/pm/gXX/zidUsername/s08/e02/Items.csv
+at/ac/uibk/pm/gXX/zidUsername/s08/e03/Explanation.txt
+at/ac/uibk/pm/gXX/zidUsername/s08/e03/LazyChecker.java
